@@ -53,7 +53,10 @@ chmod +x proje.sh
 ## **Usage**
 #### 1) Login
 * Login to the system with username and password.
-* **Not:** Default Username:admin,Password:admin123
+**Not:** 
+* Username:admin
+* Password:admin123
+(Default)
 #### 2) Main Menu
 * Add Product: Add product information with Zenity's form interface.
 * List Product: View available inventory.
