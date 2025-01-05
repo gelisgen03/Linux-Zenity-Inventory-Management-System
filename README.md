@@ -1,5 +1,5 @@
 # Simple Inventory Management System with Zenity
-
+![linux](https://github.com/user-attachments/assets/70c25852-5a5d-4f0c-8164-2d4f96351daf)
 ## **About the project**
 Hello Everyone
 - I am Suleyman Asim Gelisgen. I am student at Bursa Technical University department of computer sience.
@@ -27,19 +27,41 @@ Hello Everyone
 - Recording and reporting of erroneous entries.
 - User approval for critical transactions.
 ## **Set up**
-#### 1)Clone the project:
+#### 1)Set up Zenity:
+```
+#Zenity check
+zenity --help
+#Zenity installation
+sudo apt install zenity
+
+```
+#### 2)Clone the project:
 ```
 git clone https://github.com/gelisgen03/Linux-Zenity-Inventory-Management-System.git
 cd Linux-Zenity-Inventory-Management-System
 ```
-#### 2)Set executable permissions:
+#### 3)Set executable permissions:
 ```
 chmod +x proje.sh
 ```
-#### 3)Run the script:
+#### 4)Run the script:
 ```
 ./proje.sh
 ```
 ## **Usage**
+#### 1)Login
+* Login to the system with username and password.
+#### 2)Main Menu
+* Add Product: Add product information with Zenity's form interface.
+* List Product: View available inventory.
+* Update Product: Edit the information of a selected product.
+* Delete Product: Remove a specific product from the system.
+* Get Report: Generate reports by analysing stock.
+* User Management: Add, list, update and delete users (administrator only).
+* Programme Management: Check disc space, make backups and view error logs.
+#### 3)Logout
+* You can exit the programme with the option at the bottom of the main menu.
+## **Screenshots**
+
 
 
