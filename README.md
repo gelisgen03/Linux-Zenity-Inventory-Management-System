@@ -6,10 +6,10 @@ Hello Everyone
 * Today I will tell you about my linux shell project. Before I start, I would like to thank Prof. Dr. Turgay Bigin and Research Assistant Talha Koruk for their support in this project.
 * This project aims to develop a simple inventory management system using Zenity tools. The system supports basic functions such as adding, listing, updating and deleting products with a user-friendly graphical interface. Additionally, features such as user and program management are also provided.
 ## **Features**
- ### **User Roles**
+ ### **A)User Roles**
  * **Administrator**: Can add, update, delete products and manage users,Can view products and get reports
 * **User**: Can view products and get reports.
- ### **Basic Functions**
+ ### **B)Basic Functions**
  #### 1)Product Management
 - Adding, listing, updating and deleting products.
 - Reporting for products with decreasing stock or products with the highest stock amount.
@@ -27,4 +27,19 @@ Hello Everyone
 - Recording and reporting of erroneous entries.
 - User approval for critical transactions.
 ## **Set up**
+#### 1)Clone the project:
+```
+git clone https://github.com/gelisgen03/Linux-Zenity-Inventory-Management-System.git
+cd Linux-Zenity-Inventory-Management-System
+```
+#### 2)Set executable permissions:
+```
+chmod +x proje.sh
+```
+#### 3)Run the script:
+```
+./proje.sh
+```
+## **Usage**
+
 
