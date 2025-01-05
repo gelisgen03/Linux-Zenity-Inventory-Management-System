@@ -103,7 +103,7 @@ chmod +x proje.sh
 ## **Video**
 https://youtu.be/V4vUrNJ-Rdk
 ## **Useful Links**
---> https://help.gnome.org/users/zenity/3.32/ 
+-> https://help.gnome.org/users/zenity/3.32/ 
 --> https://help.gnome.org/users/zenity/stable/forms.html.en 
 --> https://wiki.ubuntu-tr.net/index.php?title=Zenity_ile_kabuk_proglamlama
 --> https://ostechnix.com/zenity-create-gui-dialog-boxes-in-bash-scripts/ 
